@@ -49,7 +49,7 @@ describe("test create route", () => {
 	});
 });
 
-describe("test read pagination  route", () => {
+describe("test read pagination route", () => {
 	const todo = {
 		title: "Create todo",
 	};
